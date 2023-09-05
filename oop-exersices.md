@@ -43,13 +43,14 @@ console.log(rec1.perimeter()); // -> 30
 `Televizor`, `ElektronChoynak`, `DoskaPardasiPulti`, `Eskalator`, `Lion`, `Cat`, `Dog` kabi obyektlar yasang, ularda qanday maydonlar va methodlar bo'lishi mumkinligi haqida o'ylang. Va ularni tadbiq eting. Yuqoridagilardan tashqari, yana 5 ta odatiy hayotda uchraydigan narsalar uchun class yozib ko'ring.
 
 > Misol qilib `ElektronChoynak` ni tushuntirsam. Unda `model` maydoni bo'lishi mumkin.
-> `openPPLib` - qopqoqni ochish
-> `closePPLib` - qopqoqni yopish
-> `plugIn` - taglikni manbaga ulash
-> `attachToBase` - choynakni asosga ulash
-> `detachFromBase` - choqnakni asosdan ajratish
-> `powerOn` - choynakni One Touch Power bilan yoqish
-> `powerOff` - choynakni One Touch Power bilan o'chirish  
+> `openPPLib` - qopqoqni ochish.
+> `closePPLib` - qopqoqni yopish.
+> `plugIn` - taglikni manbaga ulash.
+> `attachToBase` - choynakni asosga ulash.
+> `detachFromBase` - choqnakni asosdan ajratish.
+> `powerOn` - choynakni One Touch Power bilan yoqish.
+> `powerOff` - choynakni One Touch Power bilan o'chirish.
+> Maydonlarni rasmdan ham olish mumkin.
 > ![image](https://github.com/MirzayevOrzu/js-ninja-exercises/assets/72085156/e8d64edc-5612-4bad-9412-d8310e5fc861)
 
 
